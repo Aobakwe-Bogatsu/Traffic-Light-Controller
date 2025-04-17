@@ -84,7 +84,7 @@ Follow these steps in **PIC Simulator IDE**:
 
 A Word document with simulation screenshots and descriptions of each traffic state and pedestrian mode is included:
 
-👉 [Traffic_Light_Results.docx](Traffic_Light_Results.docx)
+👉 [traffic light controllerresults.docx](traffic light controllerresults.docx)
 
 ---
 
