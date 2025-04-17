@@ -1,0 +1,18 @@
+# PIC Simulator / MPLAB-related
+*.hex
+*.lst
+*.obj
+*.cod
+*.tmp
+*.log
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# IDE backups
+*~ 
+*.bak
